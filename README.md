@@ -7,3 +7,11 @@
    Сборный проект: оценка риска ДТП
 
    Ключевые слова: KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression, SVC, ROC_AUC.
+
+2. **Joint project - hr model**
+   
+   <https://github.com/Nvazhenina/Practicum_projects/tree/main/Joint%20project%20-%20hr%20model>
+
+   Сборный проект 2: HR-аналитика
+
+   Ключевые слова: DecisionTreeRegressor, LinearRegression, KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression, SVC, ROC_AUC.
