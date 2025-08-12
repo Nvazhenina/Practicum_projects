@@ -15,3 +15,11 @@
    Сборный проект 2: HR-аналитика
 
    Ключевые слова: DecisionTreeRegressor, LinearRegression, KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression, SVC, ROC_AUC.
+
+3. **Time series - forecasts of numbers of taxi orders**
+   
+   <https://github.com/Nvazhenina/Practicum_projects/tree/main/Time%20series%20-%20forecasts%20of%20numbers%20of%20taxi%20orders>
+
+   Временные ряды - прогнозирование количества заказов такси
+
+   Ключевые слова: временные ряды, LinearRegression, DecisionTreeRegressor, LGBMRegressor, CatBoostRegressor, GradientBoostingRegressor, RMSE.
