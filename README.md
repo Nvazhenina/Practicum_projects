@@ -16,7 +16,15 @@
 
    Ключевые слова: DecisionTreeRegressor, LinearRegression, KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression, SVC, ROC_AUC.
 
-3. **Time series - forecasts of numbers of taxi orders**
+3. **Kaggle competition - startup**
+   
+   <https://github.com/Nvazhenina/Practicum_projects/tree/main/Kaggle%20competition%20-%20startup>
+
+   Соревнование Kaggle - Startups operations/close predictions
+   
+   Ключевые слова: Kaggle, KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression, SVC, CatBoostClassifier, F1, Pipeline.
+
+4. **Time series - forecasts of numbers of taxi orders**
    
    <https://github.com/Nvazhenina/Practicum_projects/tree/main/Time%20series%20-%20forecasts%20of%20numbers%20of%20taxi%20orders>
 
