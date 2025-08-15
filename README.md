@@ -8,7 +8,15 @@
 
    Ключевые слова: SqlAlchemy, LinearRegression, DecisionTreeRegressor, KerasRegressor, CatBoostRegressor, GradientBoostingRegressor, MAE, R2.
 
-2. **Joint project - assessment of traffic accident risk**
+2. **Images texts matches**
+   
+   <https://github.com/Nvazhenina/Practicum_projects/tree/main/Images%20texts%20matches>
+
+   Поиск изображений по текстовым запросам
+
+   Ключевые слова: ResNet50, BERT, GradientBoostingRegressor, RandomForestRegressor, CLIP, PyTorch.
+
+3. **Joint project - assessment of traffic accident risk**
    
    <https://github.com/Nvazhenina/Practicum_projects/tree/main/Joint%20project%20-%20assessment%20of%20traffic%20accident%20risk>
 
@@ -16,7 +24,7 @@
 
    Ключевые слова: KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression, SVC, ROC_AUC.
 
-3. **Joint project - hr model**
+4. **Joint project - hr model**
    
    <https://github.com/Nvazhenina/Practicum_projects/tree/main/Joint%20project%20-%20hr%20model>
 
@@ -24,7 +32,7 @@
 
    Ключевые слова: DecisionTreeRegressor, LinearRegression, KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression, SVC, ROC_AUC.
 
-4. **Kaggle competition - startup**
+5. **Kaggle competition - startup**
    
    <https://github.com/Nvazhenina/Practicum_projects/tree/main/Kaggle%20competition%20-%20startup>
 
@@ -32,7 +40,7 @@
    
    Ключевые слова: Kaggle, KNeighborsClassifier, DecisionTreeClassifier, LogisticRegression, SVC, CatBoostClassifier, F1, Pipeline.
 
-5. **Time series - forecasts of numbers of taxi orders**
+6. **Time series - forecasts of numbers of taxi orders**
    
    <https://github.com/Nvazhenina/Practicum_projects/tree/main/Time%20series%20-%20forecasts%20of%20numbers%20of%20taxi%20orders>
 
